@@ -47,8 +47,10 @@ shopify-sales-analysis-powerbi/
 
 Screenshots from the interactive Power BI dashboard are included in the `screenshots/` folder. Use the Markdown snippet below to embed previews into documentation or GitHub:
 
-![Shopify Dashboard](screenshots/shopify_dashboard.png)
 
+<p align="center">
+  <img src="screenshots/shopify_dashboard.png" alt="Shopify Dashboard" width="75%" />
+</p>
 
 ### 🔹 Example View:
 
