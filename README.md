@@ -49,18 +49,11 @@ Screenshots from the interactive Power BI dashboard are included in the `screens
 
 
 <p align="center">
-  <img src="screenshots/shopify_dashboard.png" alt="Shopify Dashboard" width="75%" />
+  <img src="screenshots/shopify-dashboard-details.png" alt="Shopify Dashboard" width="75%" />
 </p>
 
 ### 🔹 Example View:
 
-![Shopify Dashboard](screenshots/shopify_dashboard.png)
-
----
-
-## 📬 Contact
-
-For questions, collaboration, or feedback:
-
-- 🔗 [LinkedIn – Semiu Ajala](https://www.linkedin.com/in/semiu-ajala-517b1642/)  
-- 📧 ajalasemiu@yahoo.com
+<p align="center">
+  <img src="screenshots/shopify-dashboard-overview.png" alt="Shopify Dashboard" width="75%" />
+</p>
